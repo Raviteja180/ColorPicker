@@ -1,0 +1,17 @@
+*{
+    margin : 0px;
+    padding : 0px;
+}
+.block1{
+    width : 15%;
+    margin: 80px auto;
+    background-color: #fff;
+    text-align: center;
+    padding:16px 10px;
+}
+.body{
+    background-color:black;
+}
+.change-cursor{
+    padding: 0px 2px;
+}
